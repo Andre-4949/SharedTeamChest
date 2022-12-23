@@ -1,0 +1,12 @@
+name: SharedTeamChest
+main: de.andre.SharedTeamChest.Main
+version: -1.0-SNAPSHOT
+api-version: 1.19
+author: Andre-4949
+commands:
+    teamChest:
+        description: sets the combat time
+    viewTeamChest:
+        description: let's an operator view the team chest
+    removeTeamChest:
+        description: removes the team chest data from the storage file and:\ if wanted:\ gives the items directly to the operator
